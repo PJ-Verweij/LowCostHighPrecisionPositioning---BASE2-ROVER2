@@ -7,4 +7,4 @@ The showcase and explanation of the project can be found in this [showcase movie
 
 For the Ublox GNSS receiver configuration I refer to the work of hcwinsemius and kriete on the [RTK_GNSS github page](https://github.com/hcwinsemius/RTK_GNSS)<br/><br/>
 
-Finally, the files and explanation add a GPRS cellular connection on the raspberry PI can be found here aswell.
+Finally, the files and explanation to add a GPRS cellular connection to the raspberry PI can be found here aswell.

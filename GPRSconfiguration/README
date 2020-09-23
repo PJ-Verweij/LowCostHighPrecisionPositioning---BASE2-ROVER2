@@ -36,7 +36,7 @@ Sudo apt-get install ppp
 
 5. Place configuration and chatscript
 Create or paste the chatscript in folder /etc/ppp (GPRS.chat, can be found in this directory)
-Create or paste the ppp configuration file in /etc/ppp/peers (GPRSconfig, can be found in this directory)
+Create or paste the ppp configuration file in /etc/ppp/peers (GPRSconfig, can be found in this directory, you might need to alter the APN username and password in this file.)
 
 6. Start the connection
 Terminal command:

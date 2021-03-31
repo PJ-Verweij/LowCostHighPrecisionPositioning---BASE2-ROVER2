@@ -1,4 +1,4 @@
-# LowCostHighPrecisionPositioning
+# LowCostHighPrecisionPositioning - BASE2, ROVER2
 
 Here you can find all 3D models (SolidWorks 2019), PCB designs (KiCad) and documentation for the BASE2 and ROVER2 which have been designed during the master thesis project of Peter Verweij. <br/><br/>
 
